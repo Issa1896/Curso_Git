@@ -36,3 +36,5 @@ O que foi que eu aprendi aqui?
 ## Aula 8
 
 O que foi que eu aprendi aqui?
+
+
